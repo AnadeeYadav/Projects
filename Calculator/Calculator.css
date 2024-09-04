@@ -1,0 +1,26 @@
+#Container {
+  Border: 1px solid black;
+  width: 170px;
+  height: 300px;
+  
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+#display{
+  margin: 10px;
+  height: 20px;
+  width: 85%;
+  background-color: rgb(239, 227, 212);
+}
+
+
+#button{
+  height: 40px;
+  width: 40px;
+  margin: 5px;
+}
